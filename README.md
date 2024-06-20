@@ -1,6 +1,3 @@
-# For-Data science project
-## This is for the final project of Mathematical Foundations of Data Science.
-
 # Time Series Analysis: ARIMA and GARCH Models
 
 #### This repository contains implementations of ARIMA and GARCH models for time series analysis. These models are widely used in econometrics and finance for modeling and forecasting time series data. The repository includes Jupyter notebooks demonstrating how to build, fit, and evaluate these models using Python.

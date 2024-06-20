@@ -9,7 +9,6 @@
 
 - [Introduction](#introduction)
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Usage](#usage)
 - [ARIMA Model](#arima-model)
 - [GARCH Model](#garch-model)
@@ -34,25 +33,6 @@ To run the notebooks in this repository, you need to have the following packages
 - arch
 - matplotlib
 
-## Installation
-
-1. Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/time-series-analysis.git
-```
-
-2. Change to the repository directory:
-
-```bash
-cd time-series-analysis
-```
-
-3. Install the required packages:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 
